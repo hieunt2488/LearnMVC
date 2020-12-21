@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleHTML2", "..\ExampleH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BL", "..\ACM.BL\ACM.BL.csproj", "{BCC4EBB6-D65A-4E8D-81CB-A4130C0A26BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DutchTreat", "..\DutchTreat\DutchTreat.csproj", "{4A5A7173-28EE-4CAD-B323-42F6F1A86C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BCC4EBB6-D65A-4E8D-81CB-A4130C0A26BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC4EBB6-D65A-4E8D-81CB-A4130C0A26BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC4EBB6-D65A-4E8D-81CB-A4130C0A26BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5A7173-28EE-4CAD-B323-42F6F1A86C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5A7173-28EE-4CAD-B323-42F6F1A86C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5A7173-28EE-4CAD-B323-42F6F1A86C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5A7173-28EE-4CAD-B323-42F6F1A86C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
